@@ -5,6 +5,7 @@ type Episode = {
   members: string;
   duration: number;
   url: string;
+  thumbnail: string;
 }
 
 type PlayerContextData = {
